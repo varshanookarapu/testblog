@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": " True Blue",
+      "body": " Mace perry, ex cop has dangerous score to settle",
+      "author": "Jimbo",
+      "id": 4
+    },
+    {
+      "title": " Two kinds of Truth",
+      "body": " There are two kinds and we need to find the real truth",
+      "author": "Jimbo",
+      "id": 5
+    }
+  ]
+}
